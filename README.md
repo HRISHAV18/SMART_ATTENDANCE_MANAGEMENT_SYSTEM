@@ -79,7 +79,7 @@ v) Now you need to install all the requirements and dependencies for running thi
 
      pip install -r requirements.txt
    
-    Install the dependencies by seeing the requirements.txt file.
+Install the dependencies by seeing the requirements.txt file.
     
 Note: The project will not work if the version of python is different. And try installing all the dependencies by following the above instructions if it does not work.
 
